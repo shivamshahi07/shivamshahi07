@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End development <br>👯 see my portfolio on Shivamshahi.bio.link<br>🌱 I’m currently learning React framework <br>⚡ trying to make a difference with my skills 
+🔭 I’m currently working on MERN stack development <br>👯 see my portfolio on Shivamshahi.bio.link<br>🌱 I’m currently learning Next.Js <br>⚡ trying to make a difference with my skills 
 
 
 ## 🌐 Socials:
