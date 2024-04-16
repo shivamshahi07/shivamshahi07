@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack development <br>👯 see my portfolio on Shivamshahi.bio.link<br>🌱 I’m currently learning Next.Js <br>⚡ trying to make a difference with my skills 
+🔭 I’m currently working on T3 stack Development <br>👯 see my portfolio on https://shivamshahi.vercel.app/<br>🌱 I’m currently deciding Between Web3 And Artificial Intelligence <br>⚡ trying to make a difference with my skills 
 
 
 ## 🌐 Socials:
